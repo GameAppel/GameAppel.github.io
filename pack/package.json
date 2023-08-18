@@ -1,0 +1,10 @@
+{
+  "name": "Appel",
+  "Version": "3.0",
+  "main": "main.js"
+}
+{
+  "Scripts": {
+    "start": "electron"
+  }
+}

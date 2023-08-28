@@ -1,55 +1,48 @@
-![](res/Title.svg)
+# 😊Appel 游戏
 
-# 😊Appel Games
+### 社区关卡
 
+速通挑战：[点击此处观看](https://youtu.be/gqcc0IyBaFg)\
+关卡设计：[点击此处观看](https://youtu.be/iqdKA810a3Q)\
+[旧版讨论帖](https://scratch.mit.edu/discuss/topic/469020/)\
+[新版讨论帖](https://scratch.mit.edu/discuss/topic/652044/)
 
+Scratch 教程：[点击此处观看](https://www.youtube.com/griffpatch)
 
-### COMMUNITY LEVELS ###
-Speed Runs: https://youtu.be/gqcc0IyBaFg  
-Level Design: https://youtu.be/iqdKA810a3Q  
-https://scratch.mit.edu/discuss/topic/469020/ (old)  
-https://scratch.mit.edu/discuss/topic/652044/ (new)     
+### 故事背景
 
-Scratch Tutorials: https://www.youtube.com/griffpatch
+***Micro Manager（微型管理者）为了获取黄金苹果的力量，开始控制 Appelmoeshapje 行星。随着 Micro Manager 的影响力增长，Appel 发现不仅居民，整个世界也对他产生了敌意！***
 
-### STORY ###
-***Micro Manager, in his desperation to gain the power of the golden apples has begun to take control of planet Appelmoeshapje. As Micro Manager's influence grows, Appel finds not only the inhabitants of, but the very world is turning against him!***
+***帮助 Appel 在每个关卡中穿行，避开危险，在最终面对 Micro Manager 并恢复世界和平之前，尽可能多地收集黄金苹果。***
 
-***Help Appel to navigate through each level, avoiding danger, collecting as many golden apples as you can before finally facing Micro Manager and restoring peace to the world.***
+### 操作方法
 
-### CONTROLS ###
-* Arrow Keys or WASD to run, jump & crouch
-* Wall Jump - by touching a wall and pressing 'up'
-* Jump Higher - by holding up for longer
-* Stick to the ceiling - by holding up - But be careful, you can't move sideways when 'stuck' to a surface
-* Crouch by holding down (you can crouch on the floor, but also the walls and ceiling!)
-* Q + R - to quickly restart the level
-* Complete a level, then click 'replay' and then pause for an option to save your replay (load them back in the Play / Load option)
+- 使用方向键或 WASD 进行奔跑、跳跃和蹲下
+- 沿墙跳跃 - 触碰墙壁并按下“上”键
+- 长按上键可以跳得更高
+- 沿天花板移动 - 长按上键 - 但要小心，当“黏”在表面上时无法横向移动
+- 长按下键蹲下（你可以在地面、墙壁和天花板上蹲下！）
+- 按下 Q + R 键可以快速重新开始关卡
+- 完成一个关卡后，点击“重播”，然后暂停以保存回放选项（可以从播放/加载选项中像正常关卡一样加载它们）
 
-### UPDATES ###
-* 😢18 Aug 2022 **- v1.4** - I have taken the sad decision to remove the high score feature because hackers are forcing the project to be reported. Nothing I can do :(  
-* ❤30 Dec 2020 **- v1.4 -** Fixed death by edge collision with narrow blocks - I hope - Phew!!! - Reset level 7 scores as they were no longer obtainable.  
-* 👌29 Dec 2020 **- v1.3 -** Fixed invulnerability glitches at spawn and moving platforms - Added Replays with the option to save your runs (they can be loaded like normal levels from the play / level selector screen)  
-* 😎24 Dec 2020 **- v1.2 -** Fixed respawn glitch with destructible blocks - Made 'E' key in level designer also copy block data.  
-* 😊22 Dec 2020 **- v1.1 -** Level 2 & 5 were missing hidden apples - I had to fix them and reset the scores.  
-* 👍21 Dec 2020 **- v1.0 -** Initial Release
+### 更新内容
 
-------
+- 😢2022 年 8 月 18 日 **- v1.4** - 很遗憾我决定移除高分功能，因为黑客们一直在强行举报这个项目。我无能为力😢
+- ❤2020 年 12 月 30 日 **- v1.4 -** 修复了与狭窄方块边缘碰撞导致的死亡问题 - 希望如此 - 呼！ - 重置第 7 关的分数，因为无法再达到了。
+- 👌2020 年 12 月 29 日 **- v1.3 -** 修复了生成点和移动平台上的无敌漏洞 - 添加了回放功能，并提供保存运行数据的选项（可以像正常关卡一样从播放/关卡选择屏幕中加载它们）
+- 😎2020 年 12 月 24 日 **- v1.2 -** 修复了可破坏方块重生的问题 - 使级别设计器中的“E”键也可以复制方块数据。
+- 😊2020 年 12 月 22 日 **- v1.1 -** 第 2 关和第 5 关缺少隐藏的苹果 - 我必须修复它们并重置分数。
+- 👍2020 年 12 月 21 日 **- v1.0 -** 初始发布
 
+______________________________________________________________________
 
+### 该项目
 
-### This Project ###
+😁该项目包括 16 个不同版本的游戏**Appel**。
 
-😁This Project includes 16 different versions of the game **Appel**.
+### 发布记录
 
-
-
-### Release
-
-| Version | Time      | Changes                                 |
-| ------- | --------- | --------------------------------------- |
-| v0      | 2023/8/15 | Initial Release                         |
-| v1      | 2023/8/17 | Change the scratch running environment. |
-
-
-
+| 版本  | 时间        | 变更内容            |
+| --- | --------- | --------------- |
+| v0  | 2023/8/15 | 初始发布            |
+| v1  | 2023/8/17 | 更改 Scratch 运行环境 |

@@ -3,17 +3,6 @@ body {
     background-size: cover;
 }
 
-.doc {
-    display: block;
-    width: 100%;
-    background: #ffbf00;
-    padding: 10px;
-    text-align: center;
-    border-radius: 5px;
-    color: #000000;
-    font-weight: bold;
-}
-
 p {
     text-align: center;
     font-size: 20px;
